@@ -7,7 +7,7 @@ using System.Web.Mvc;
 namespace DemoMVC.Controllers
 {
     public class HomeController : Controller
-        //đây là HomeController
+
     {
         public ActionResult Index()
         {
